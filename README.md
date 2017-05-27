@@ -63,7 +63,7 @@ Contribution
 ![Contribution](broswer-extension/Home.png)
 
 ## Author
-[Harry Liu] (https://github.com/byliuyang/)
+[byliuyang] (https://github.com/byliuyang/)  -- **Initial works**
 
 
 
