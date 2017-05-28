@@ -2,7 +2,7 @@
 Design assets for Wehackers web App and browser extension
 
 ## What is Wehackers.club?
-Wehackers.club is link sharing online community designed for developers and designers. It collects and automatically ranks tutorials, tools, video, articles, libraries and frameworks based user's votes, allowing the beginner to find the worth most learning resources without going through painful online search. It helps expert to find the update to tools and technologies, potentially improving their productivities. It's also the playground for cutting-edge enthusiastic, sharing their exciting findings and getting acknowledged by the community. 
+Wehackers.club is link sharing online community designed for developers and designers. It collects and automatically ranks tutorials, tools, video, articles, libraries and frameworks based user's votes, allowing the beginner to find the worth most learning resources without going through painful online search. It helps expert to find the up to date tools and technologies, potentially improving their productivities. It's also the playground for cutting-edge enthusiastic, sharing their exciting findings and getting acknowledged by the community. 
 
 ## Getting Started
 ### Rerequisites
