@@ -22,6 +22,9 @@ Vote on link
 Sign in popup
 ![Sign in popup](web/sign-In-popup.png)
 
+Sign up popup
+![User signed in screen](web/sign-up.png)
+
 User signed in
 ![User signed in screen](web/home-signed-in.png)
 
@@ -31,14 +34,14 @@ User info
 Organize categories
 ![Organize categories](web/manage-links.png)
 
+Search link to categorize
+![Search link to categorize](web/links-to-categorize.png)
+
 Add link popup
 ![Add link popup](web/add-link.png)
 
-Add a sample link
-![Add a sample link](web/add-sample-link.png)
-
-Search link to categorize
-![Search link to categorize](web/links-to-categorize.png)
+Add example link
+![Add a sample link](web/add-example-link.png)
 
 ### Broswer extension
 
@@ -63,7 +66,8 @@ Contribution
 ![Contribution](broswer-extension/Home.png)
 
 ## Author
-[byliuyang] (https://github.com/byliuyang/)  -- **Initial works**
+
+[byliuyang](https://github.com/byliuyang) - **Initial works**
 
 
 
