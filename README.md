@@ -65,8 +65,7 @@ Contribution
 
 ![Contribution](broswer-extension/Home.png)
 
-## Author
-
+## Authors
 [byliuyang](https://github.com/byliuyang) - **Initial works**
 
 
